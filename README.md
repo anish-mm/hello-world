@@ -1,2 +1,3 @@
 # hello-world
-first github venture
+first github tryout. babysteps.
+wish me luck!
